@@ -1,0 +1,1 @@
+SELECT * FROM studentsTable WHERE StudentSurname='UÐURLU'
